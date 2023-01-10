@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: pointProcess
+Version: 1.0
+Summary: Point Process Simulation
+Home-page: http://www.gipsa-lab.grenoble-inp.fr/~guillaume.becq/projets.html
+Author: Guillaume Becq
+Author-email: guillaume.becq@gipsa-lab.grenoble-inp.fr
+License: UNKNOWN
+Description: Classes and functions for point processes simulation, statistics computation and observation. 
+Keywords: point processes,Poisson processes
+Platform: Windows
+Platform: Mac
+Platform: Linux
